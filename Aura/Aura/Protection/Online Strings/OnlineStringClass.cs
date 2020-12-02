@@ -8,7 +8,8 @@ namespace Aura.Protection.StringOnline
         public static string Decoder(string encrypted)
         {
             if (Assembly.GetExecutingAssembly() != Assembly.GetCallingAssembly()) return "Aura.png";
-            return "null";
+            var webClient = new WebClient();
+            return webClient.DownloadString($"https://liria.club/encryption/Decoder.php?string={encrypted}");
         }
     }
 }
