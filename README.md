@@ -7,10 +7,6 @@
 
 A secure based .NET Obfuscator developed in C# made by loom (loomisntreal).
 
-## FAQ
-
-* Q: Is there a binary available? A: No, you have to build it yourself.
-
 ## Current Features
 
 * String Encryption (encodes strings in the program)
@@ -39,6 +35,10 @@ A secure based .NET Obfuscator developed in C# made by loom (loomisntreal).
 <p align="center"><img width=60% src="https://i.vgy.me/Svxjzm.png"></p>
 
 <p align="center"><img width=60% src="https://i.vgy.me/Qxn6xi.png"></p>
+
+## FAQ
+
+* Q: Is there a binary available? A: No, you have to build it yourself.
 
 ## Contribution
 Do you want to add awesome features to Aura? Here's how:
