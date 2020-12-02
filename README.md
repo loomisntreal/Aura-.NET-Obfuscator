@@ -1,2 +1,1 @@
-# Aura-.NET-Obfuscator
-Aura .NET, the superior open-source .NET obfuscation service developed in C#!
+<p align="center"><img width=60% src="https://i.vgy.me/2q0t5S.png"></p>
