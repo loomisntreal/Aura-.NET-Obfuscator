@@ -35,3 +35,11 @@ A secure based .NET Obfuscator developped in C# made by loom (loomisntreal).
 <p align="center"><img width=60% src="https://i.vgy.me/Svxjzm.png"></p>
 
 <p align="center"><img width=60% src="https://i.vgy.me/Qxn6xi.png"></p>
+
+## Contribution
+Do you want to add awesome features to Aura? Here's how:
+
+- Fork Aura-.NET-Obfuscator repository
+- Commit & push a new feature to the forked repository
+- Open a pull request from your fork to Aura .NET Obfuscator
+- We will review it and merge it
