@@ -31,3 +31,7 @@ A secure based .NET Obfuscator developped in C# made by loom (loomisntreal).
 * Resource Conversion (converts all resources in the application to fields)
 
 ## Screenshots
+
+<p align="center"><img width=60% src="https://i.vgy.me/Svxjzm.png"></p>
+
+<p align="center"><img width=60% src="https://i.vgy.me/Qxn6xi.png"></p>
