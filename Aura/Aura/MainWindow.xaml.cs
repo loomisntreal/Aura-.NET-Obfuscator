@@ -54,10 +54,10 @@ namespace Aura
                 ConsoleLog.AppendText($"{time} Processing string encryption{Environment.NewLine}");
             }
 
-            if (Online_Encryption.IsChecked == true)
+            if (Online_Decryption.IsChecked == true)
             {
                 OnlinePhase.Execute(module);
-                ConsoleLog.AppendText($"{time} Processing online encryption{Environment.NewLine}");
+                ConsoleLog.AppendText($"{time} Processing online decryption{Environment.NewLine}");
             }
 
             if (Cflow.IsChecked == true)
