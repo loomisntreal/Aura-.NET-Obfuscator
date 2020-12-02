@@ -5,9 +5,13 @@
 [![Issues](https://img.shields.io/github/issues/loomisntreal/Aura-.NET-Obfuscator.svg)](https://github.com/loomisntreal/Aura-.NET-Obfuscator/issues)
 [![Pull requests](https://img.shields.io/github/issues-pr/loomisntreal/Aura-.NET-Obfuscator.svg)](https://github.com/loomisntreal/Aura-.NET-Obfuscator/pulls)
 
-A secure based .NET Obfuscator developped in C# made by loom (loomisntreal).
+A secure based .NET Obfuscator developed in C# made by loom (loomisntreal).
 
-## Current features
+## FAQ
+
+* Q: Is there a binary available? A: No, you have to build it yourself.
+
+## Current Features
 
 * String Encryption (encodes strings in the program)
 * Online Encryption (encodes strings in the program & decrypts from the online method inside of the source-code)
