@@ -40,7 +40,7 @@
                 <Grid ForceCursor="True">
                     <TextBox x:Name="Program" ToolTip="Drop your program here" HorizontalAlignment="Left" Height="22" Margin="32,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="543" DragEnter="LoadBox_DragEnter" Drop="LoadBox_Drop" AllowDrop="True" PreviewDragOver="LoadBox_PreviewDragOver" />
                     <CheckBox x:Name="String_Encryption" Content="String Encryption" HorizontalAlignment="Left" Margin="53,68,0,0" VerticalAlignment="Top" Width="120" />
-                    <CheckBox x:Name="Online_Encryption" Content="Online Encryption" HorizontalAlignment="Left" Margin="53,91,0,0" VerticalAlignment="Top" Width="120" />
+                    <CheckBox x:Name="Online_Decryption" Content="Online Decryption" HorizontalAlignment="Left" Margin="53,91,0,0" VerticalAlignment="Top" Width="120" />
                     <CheckBox x:Name="Cflow" Content="Control Flow" HorizontalAlignment="Left" Margin="53,114,0,0" VerticalAlignment="Top" Width="120" />
                     <CheckBox x:Name="IntConf" Content="Integer Confusion" HorizontalAlignment="Left" Margin="53,137,0,0" VerticalAlignment="Top" Width="120" />
                     <CheckBox x:Name="Ahri" Content="Math Calculations" HorizontalAlignment="Left" Margin="53,160,0,0" VerticalAlignment="Top" Width="120" />
