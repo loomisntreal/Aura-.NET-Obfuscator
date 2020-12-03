@@ -12,7 +12,7 @@ A secure based .NET Obfuscator developed in C# made by loom (loomisntreal).
 ## Current Features
 
 * String Encryption (encodes strings in the program)
-* Online Encryption (encodes strings in the program & decrypts from the online method inside of the source-code)
+* Online Decrypts (decrypts the encrypted strings (string encryption must checked true for this to work) from the online method inside of the source-code)
 * Control Flow (mangles with the methods inside of the code so decompilers cannot decompile the methods)
 * Integer Confusion (this will add calculations inside of all integers)
 * Math Calculations (this adds arithmetic inside of all constants)
