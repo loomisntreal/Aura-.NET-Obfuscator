@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using System.Windows;
 
 [assembly: AssemblyTitle("Aura")]
-[assembly: AssemblyDescription("https://github.com/Sato-Isolated/Aura")]
+[assembly: AssemblyDescription("https://github.com/loomisntreal/Aura-.NET-Obfuscator")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Aura Services")]
 [assembly: AssemblyProduct("Aura")]
